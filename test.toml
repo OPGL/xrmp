@@ -1,0 +1,11 @@
+[php]
+port = 8080
+enabled = true
+
+[phpmyadmin]
+port = 8080
+enabled = true
+
+[mariadb]
+port = 3306
+enabled = true
